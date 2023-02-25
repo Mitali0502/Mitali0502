@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mitali Chaudhary
 
 <!--
 **Mitali0502/Mitali0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
