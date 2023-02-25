@@ -1,6 +1,6 @@
 ### __Hi :wave: , I'm Mitali Chaudhary__
-
-I'm Mitali, a 3rd year CS major 
+<br>
+A 3rd year
 
 
 
