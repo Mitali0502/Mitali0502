@@ -1,4 +1,8 @@
-### Hi :wave: , I'm Mitali Chaudhary
+### __Hi :wave: , I'm Mitali Chaudhary__
+
+I'm Mitali, a 3rd year CS major 
+
+
 
 <!--
 **Mitali0502/Mitali0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
