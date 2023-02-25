@@ -1,4 +1,4 @@
-### __Hi :wave: , I'm Mitali Chaudhary__
+### ___Hi :wave: , I'm Mitali Chaudhary___
 ****
  A 3rd year CS major studying at UPES Dehradun, specializing in Cyber Security and Forensics. I currently serve as the Design Lead at GDSC UPES. Scroll down to know more about me and to connect with me!
 
