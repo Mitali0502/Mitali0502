@@ -5,7 +5,7 @@
 
 :mailbox: How to reach me mitalichaudhary05@gmail.com
 *****
-Connect with me: [Link to Twitter ](https://twitter.com/Mitali05_ “My Twitter Handle”)
+
 
 
 
