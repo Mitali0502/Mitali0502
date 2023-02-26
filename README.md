@@ -5,6 +5,7 @@
 
 :mailbox: How to reach me mitalichaudhary05@gmail.com
 *****
+Connect with me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Mitali05_.svg?style=social&label=Follow%20%40Mitali05_)](https://twitter.com/Mitali05_)
 
 
 
