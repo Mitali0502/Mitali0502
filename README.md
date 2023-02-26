@@ -2,11 +2,10 @@
 ****
  A 3rd year CS major studying at UPES Dehradun, specializing in Cyber Security and Forensics. I currently serve as the Design Lead at GDSC UPES. Scroll down to know more about me and to connect with me!
  _____
- *Pursuing B.tech in CSE, specializing in Cyber Security and forensics<br>
- *UPES, Dehradun <br>
- *Building skills, while also working on few projects<br>
- *Learning Networking, Web Development and DSA, while working on related projects<br>
- *You can reach me at:
+
+:mailbox: How to reach me mitalichaudhary05@gmail.com
+*****
+Connect with me: [Link to Twitter ](https://twitter.com/Mitali05_ “My Twitter Handle”)
 
 
 
